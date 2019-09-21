@@ -1,0 +1,24 @@
+---
+title: "Milestone_2"
+author: "Daniel Shapiro"
+date: "9/21/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, error = FALSE, message = FALSE)
+```
+
+```{r}
+```
+# Project 1
+
+### Diego Martinez: Baseball Aging Curves
+
+As a baseball fan, this project was quite interesting to me. Overall, his layout was very user-friendly and easy to cycle through. He has an extensive list of players to choose from, and he tackles a number of different issues in his project. In terms of cons, I think that he could have done more to acquaint people with the stats he's using -- for active baseball fans, this is great, but if a layperson is trying to understand the data, it may be difficult. Also, I feel that his graphs were similar in terms of the types of code that he used -- a bit more variation in style of data analysis would probably be useful. Overall, though, I liked it and may actually use it for future fantasy baseball seasons.
+
+# Project 2
+
+### Michael Calabro: Analysis of Batting and Pitching data in the MLB in relation to a drastic rise in strikeouts
+
+I found another baseball-related project from Michael Calabro. Frankly, I preferred the first project that I looked at in terms of layout; I thought that it was more user-friendly and easy to compare data. Additionally, I didn't see any analysis of the causes of the trends that Michael described. While he had a fair amount of data for a few different phenomena, I thought that it could have been organized better and explained in a better way. 
